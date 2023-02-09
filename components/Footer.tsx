@@ -13,7 +13,7 @@ export default function Footer() {
         >
           OpenAI
         </a>
-        {" + "}
+        {/* {" + "}
         <a
           href="https://vercel.com/"
           target="_blank"
@@ -21,7 +21,7 @@ export default function Footer() {
           className="font-bold hover:underline transition underline-offset-2"
         >
           Vercel
-        </a>
+        </a> */}
         {" + "}
         <a
           href="https://nextjs.org/"
@@ -33,7 +33,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
-        <Link
+        {/* <Link
           href="https://twitter.com/shengxj1"
           className="group"
           aria-label="Shengxj on Twitter"
@@ -66,7 +66,7 @@ export default function Footer() {
               <path d="M122.9015,168.1154 L102.0335,187.1414 C102.0335,187.1414 100.4025,188.3794 98.6175,187.6034 L102.6135,152.2624" fill="#B5CFE4"></path>
             </g>
           </svg>
-        </Link>
+        </Link> */}
       </div>
     </footer>
   );
